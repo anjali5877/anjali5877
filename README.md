@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Anjali Rai! 
 
-<!--
-**anjali5877/anjali5877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc IT Graduate**  
+📊 **Data Analytics & AI Enthusiast**  
+🌟 Passionate about leveraging technology to solve real-world problems.  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages**: Python, SQL
+- **Tools**: Power BI, Tableau, Excel
+- **Domains**: Data Analytics, Machine Learning, AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+-- 📈 [top 5 space agencies](tableau)
+- 🎄 [Christmas Season Dashboard Analysis](Power bi)
+- ⚡ [Covid-19 state-wise](excel)
+- 📊 [Swiggy Database analysis](SqL)
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/anjali-rai-870630255/)  
+- 🌟 [GitHub](https://github.com/anjali5877)  
+
+---
+
+🌟 **"Transforming data into actionable insights!"**
